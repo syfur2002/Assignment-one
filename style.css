@@ -1,0 +1,33 @@
+
+.banner{
+    background-image: url(./assets/Hero-bg.png);
+}
+.banner-profile{
+    text-align: center;
+}
+.banner-profile img{
+    width: 120px;
+    margin-top: 27px;
+}
+.banner-head{
+    text-align: center;
+    font-size: 14px;
+}
+
+.banner-text{
+    text-align: center;
+    font-size:10px;
+}
+
+.banner-btn{
+    text-align: center;
+}
+.banner-btn button{
+    margin-bottom: 25px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 9px;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 7px;
+}
