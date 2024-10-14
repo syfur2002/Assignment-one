@@ -125,6 +125,27 @@
 .jcolor{
     background-color:rgba(255, 223, 0, 0.05);
 }
+.support{
+    margin: 16px 50px;
+    background-image: url(./assets/handshake.jpg);
+    background-size: cover;
+    border-radius: 7px;
+}
+.support h3{
+ text-align: center;
+ padding-top: 17px;
+ color: white;
+}
+.support p{
+    text-align: center;
+    font-size: 8px;
+    color: white;
+    margin-bottom: 10px;
+}
+.support form{
+    text-align: center;
+    padding-bottom: 20px;
+}
 
 
 
