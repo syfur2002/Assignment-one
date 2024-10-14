@@ -1,4 +1,15 @@
-
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 9px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 0%;
+}
+.navbar button{
+    font-size: 9px;
+}
 .banner{
     background-image: url(./assets/Hero-bg.png);
 }
@@ -28,6 +39,10 @@
     padding: 6px 10px;
     border: none;
     border-radius: 7px;
+}
+.banner-btn a{
+    color: white;
+    text-decoration: none;
 }
 .web-dev{
     margin: 15px 60px;
@@ -146,9 +161,13 @@
     text-align: center;
     padding-bottom: 20px;
 }
-
-
-
-
-
-
+#footer{
+    margin: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#footer img{
+    width: 18px;
+    margin-left: 6px;
+}
