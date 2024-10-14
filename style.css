@@ -73,9 +73,6 @@
     margin: 10px 50px;
     text-align: center;
 }
-.inspiration h4{
-    
-}
 .inspiration p{
     font-size: 9px;
 }
@@ -84,7 +81,50 @@
     height: 250px;
     border-radius: 10px;
 }
-
+.cterget{
+    margin: 10px 55px;
+}
+.cterget h4{
+    text-align: center;
+}
+.tergetp{
+    font-size: 9px;
+    text-align: center;
+}
+.tergetcart{
+    display: flex;
+}
+.cart2{
+    display: block;
+    border-radius: 6px;
+    margin: 10px 5px;
+    padding-bottom: 10px;
+}
+.cart2 h5{
+    margin-left: 10px;
+}
+.cart2 img{
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.cart2 p{
+    font-size: 9px;
+    margin-left: 10px;
+}
+.cart2 a{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.hcolor{
+    background-color:rgba(255, 76, 30, 0.05);
+}
+.ccolor{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.jcolor{
+    background-color:rgba(255, 223, 0, 0.05);
+}
 
 
 
